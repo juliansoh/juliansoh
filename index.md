@@ -1,2 +1,2 @@
-![image](docs/pics/Ollie.jpg)
+![image](docs/pics/Ollie.JPG)
 # Julian Soh
